@@ -44,9 +44,24 @@ and transactions.market_code="Mark001";`
 
 ![image](https://user-images.githubusercontent.com/59439090/130356147-f0379612-c426-4c07-86f1-5d8c55d65459.png)
 
+
 ### Insights:
 
 
 ![image](https://user-images.githubusercontent.com/59439090/130356224-18f8aea1-3d7f-4d53-bd54-65cf518af3b9.png)
+
+
+### Profit Analysis:
+
+
+![image](https://user-images.githubusercontent.com/59439090/130357775-4fed224d-2df1-4b77-bbd4-0f3b53416ec2.png)
+
+
+
+### Performance Insights:
+
+
+![image](https://user-images.githubusercontent.com/59439090/130357838-bde72c50-9953-4e2d-9906-c20bb126ef23.png)
+
 
 
