@@ -1,3 +1,4 @@
 # PowerBI_Insights
 
-![image](https://user-images.githubusercontent.com/59439090/130356064-c1572072-a031-48c8-851a-5bcbd3cfa8e6.png)
+![image](https://user-images.githubusercontent.com/59439090/130356147-f0379612-c426-4c07-86f1-5d8c55d65459.png)
+
